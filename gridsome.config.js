@@ -5,23 +5,25 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: process.env.SITE_NAME || 'Gridsome Geek Blog',
+  siteName: process.env.SITE_NAME || 'War Yankee Blog',
   siteDescription:
     process.env.SITE_DESCRIPTION ||
-    'Gridsome Geek Blog covers Technologies, Apps, Games, Tips and Tricks, How to, Linux, Windows, Blogging, Programming etc.',
-  siteUrl: process.env.GRIDSOME_BASE_URL || 'https://xqsit94.github.com',
+    "War Yankee - Overland is an American Civil War Podcast following the history of Grant's Overland Campaign from Washington, DC, to Petersburg, Virginia",
+  siteUrl:
+    process.env.GRIDSOME_BASE_URL ||
+    'https://github.com/gagglepod/waryankee-blog',
   icon: {
     favicon: {
       src: process.env.SITE_FAVICON_PATH || './static/images/favicon.png',
-      sizes: [16, 32, 96],
-    },
+      sizes: [16, 32, 96]
+    }
   },
   plugins: [
     {
-      use: 'gridsome-plugin-robots-txt',
+      use: 'gridsome-plugin-robots-txt'
     },
     {
-      use: 'gridsome-plugin-windicss',
+      use: 'gridsome-plugin-windicss'
     },
     {
       use: '@gridsome/vue-remark',
@@ -33,10 +35,10 @@ module.exports = {
         plugins: [
           [
             'gridsome-plugin-remark-shiki',
-            { theme: 'css-variables', skipInline: true },
-          ],
-        ],
-      },
+            { theme: 'css-variables', skipInline: true }
+          ]
+        ]
+      }
     },
     {
       use: '@gridsome/source-filesystem',
@@ -46,14 +48,14 @@ module.exports = {
         refs: {
           tags: {
             typeName: 'Tag',
-            create: true,
+            create: true
           },
           categories: {
             typeName: 'Category',
-            create: true,
-          },
-        },
-      },
+            create: true
+          }
+        }
+      }
     },
     {
       use: 'gridsome-plugin-rss',
@@ -67,28 +69,28 @@ module.exports = {
             ? `${process.env.GRIDSOME_BASE_URL}/rss.xml`
             : 'https://xqsit94.github.com/rss.xml',
           site_url:
-            process.env.GRIDSOME_BASE_URL || 'https://xqsit94.github.com/',
+            process.env.GRIDSOME_BASE_URL || 'https://xqsit94.github.com/'
         },
-        feedItemOptions: (node) => ({
+        feedItemOptions: node => ({
           title: node.title,
           description: node.summary,
           url: process.env.GRIDSOME_BASE_URL
             ? process.env.GRIDSOME_BASE_URL + node.path
             : 'https://xqsit94.github.com' + node.path,
           author: process.env.SITE_AUTHOR || 'Manikandan (xqsit94)',
-          date: node.date,
+          date: node.date
         }),
         output: {
           dir: './static',
-          name: 'rss.xml',
-        },
-      },
+          name: 'rss.xml'
+        }
+      }
     },
     {
       use: '@gridsome/plugin-sitemap',
       options: {
-        cacheTime: 600000, // default
-      },
+        cacheTime: 600000 // default
+      }
     },
     {
       use: 'gridsome-plugin-recommender',
@@ -106,34 +108,34 @@ module.exports = {
         minRelations: 3,
         maxRelations: 3,
         fillWithRandom: false,
-        debug: false,
-      },
+        debug: false
+      }
     },
     {
       use: 'gridsome-plugin-gtag',
       options: {
         config: {
-          id: process.env.GOOGLE_ANALYTICS_ID,
-        },
-      },
-    },
+          id: process.env.GOOGLE_ANALYTICS_ID
+        }
+      }
+    }
   ],
   templates: {
     Tag: '/tag/:id',
-    Category: '/category/:id',
+    Category: '/category/:id'
   },
   transformers: {
     remark: {
       plugins: [
         [
           'gridsome-plugin-remark-shiki',
-          { theme: 'css-variables', skipInline: true },
+          { theme: 'css-variables', skipInline: true }
         ],
-        ['remark-attr'],
+        ['remark-attr']
       ],
       externalLinksTarget: '_blank',
       externalLinksRel: ['nofollow', 'noopener', 'noreferrer'],
-      anchorClassName: 'icon icon-link',
-    },
-  },
+      anchorClassName: 'icon icon-link'
+    }
+  }
 }
