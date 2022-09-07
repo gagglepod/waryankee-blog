@@ -62,21 +62,20 @@ module.exports = {
       options: {
         contentTypeName: 'Post',
         feedOptions: {
-          title:
-            process.env.SITE_TITLE ||
-            'Geek Blog | Technology Guide, Tips, HowTo, Coding etc.',
+          title: process.env.SITE_TITLE || 'War Yankee | Overland',
           feed_url: process.env.GRIDSOME_BASE_URL
             ? `${process.env.GRIDSOME_BASE_URL}/rss.xml`
-            : 'https://xqsit94.github.com/rss.xml',
+            : 'https://github.com/gagglepod/waryankee-blog/rss.xml',
           site_url:
-            process.env.GRIDSOME_BASE_URL || 'https://xqsit94.github.com/'
+            process.env.GRIDSOME_BASE_URL ||
+            'https://github.com/gagglepod/waryankee-blog/'
         },
         feedItemOptions: node => ({
           title: node.title,
           description: node.summary,
           url: process.env.GRIDSOME_BASE_URL
             ? process.env.GRIDSOME_BASE_URL + node.path
-            : 'https://xqsit94.github.com' + node.path,
+            : 'https://github.com/gagglepod/waryankee-blog' + node.path,
           author: process.env.SITE_AUTHOR || 'Manikandan (xqsit94)',
           date: node.date
         }),

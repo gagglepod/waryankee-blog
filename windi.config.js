@@ -8,7 +8,7 @@ module.exports = {
       './src/**/*.pug',
       './src/**/*.md',
       './docs/**/*.md',
-      './blog/**/*.md',
+      './blog/**/*.md'
     ],
     options: {
       whitelist: [
@@ -19,19 +19,19 @@ module.exports = {
         'g-image',
         'g-image--lazy',
         'g-image--loaded',
-        'active',
-      ],
-    },
+        'active'
+      ]
+    }
   },
   theme: {
     extend: {
       darkMode: 'class',
       spacing: {
         80: '20rem',
-        108: '27rem',
+        108: '27rem'
       },
       borderWidth: {
-        14: '14px',
+        14: '14px'
       },
       width: {
         '1/7': '17.2857143%',
@@ -39,11 +39,11 @@ module.exports = {
         '3/7': '42.8571429%',
         '4/7': '57.1428571%',
         '5/7': '71.4285714%',
-        '6/7': '85.7142857%',
-      },
+        '6/7': '85.7142857%'
+      }
     },
     container: {
-      padding: '1rem',
+      padding: '1rem'
     },
     colors: {
       background: {
@@ -51,16 +51,16 @@ module.exports = {
         secondary: 'var(--bg-background-secondary)',
         tertiary: 'var(--bg-background-tertiary)',
 
-        form: 'var(--bg-background-form)',
+        form: 'var(--bg-background-form)'
       },
 
       copy: {
         primary: 'var(--text-copy-primary)',
-        secondary: 'var(--text-copy-hover)',
+        secondary: 'var(--text-copy-hover)'
       },
 
       'border-color': {
-        primary: 'var(--border-border-color-primary)',
+        primary: 'var(--border-border-color-primary)'
       },
 
       transparent: 'transparent',
@@ -74,11 +74,12 @@ module.exports = {
         200: '#8feee4',
         300: '#61eee0',
         400: '#28e2d0',
-        500: '#03dac6',
-        600: '#01aa99',
+        // 500: '#03dac6',
+        500: '#3E8EDE', // union blue - main
+        600: '#CC6600', // butternut - hover
         700: '#00665d',
         800: '#013e39',
-        900: '#012421',
+        900: '#012421'
       },
 
       secondary: {
@@ -87,11 +88,12 @@ module.exports = {
         200: '#fdd6e3',
         300: '#fac1d4',
         400: '#f5aac3',
-        500: '#f49bb9',
+        // 500: '#f49bb9',
+        500: '#CC6600', // butternut - active
         600: '#dc6a91',
         700: '#d7517f',
         800: '#d5376d',
-        900: '#ac0f44',
+        900: '#ac0f44'
       },
 
       gray: {
@@ -104,8 +106,8 @@ module.exports = {
         600: '#4B5563',
         700: '#374151',
         800: '#1F2937',
-        900: '#111827',
-      },
+        900: '#111827'
+      }
     },
     fontFamily: {
       sans: [
@@ -123,7 +125,7 @@ module.exports = {
         'Apple Color Emoji',
         'Segoe UI Emoji',
         'Segoe UI Symbol',
-        'Noto Color Emoji',
+        'Noto Color Emoji'
       ],
       serif: ['Georgia', 'Cambria', '"Times New Roman"', 'Times', 'serif'],
       mono: [
@@ -132,14 +134,14 @@ module.exports = {
         'Consolas',
         '"Liberation Mono"',
         '"Courier New"',
-        'monospace',
-      ],
-    },
+        'monospace'
+      ]
+    }
   },
   variants: {
     // Some useful comment
   },
   plugins: [
     // Some useful comment
-  ],
+  ]
 }

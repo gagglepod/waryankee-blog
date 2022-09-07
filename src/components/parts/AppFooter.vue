@@ -35,13 +35,10 @@
           </nav>
         </div>
         <div class="lg:w-3/4 md:w-1/2 w-full px-8">
-          <h2 class="title-font text-lg font-medium mb-3">CONTACT US:</h2>
+          <h2 class="title-font text-lg font-medium mb-3">ABOUT THE SHOW:</h2>
           <div class="mb-5">
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia
-              nostrum numquam repudiandae. Beatae cupiditate deserunt magni
-              nulla officia, porro. Architecto delectus eius, inventore laborum
-              nam optio reprehenderit suscipit tempora voluptatibus!
+              It's May 1864, and the Union enters its fourth year of war against the Confederacy succession. Ulysses S. Grant -- Hero of Vicksburg -- has been promoted to General-in-Chief of the entire Union Army by President Lincoln in a last-ditch effort to win the war. Grant, placing his command in the field with the Army of the Potomac, will now execute his own aggressive strategy against the rebels on all fronts. But first, he must spend the next 47-days fighting his way across the enemy-held Commonwealth of Virginia. Join amateur historian and US Navy veteran Kyle M. Bondo, as he follows the history of Grant's Overland Campaign from Washington, DC, to Petersburg, Virginia, in War Yankee, an American Civil War Podcast is a history podcast presented by Gagglepod.
             </p>
           </div>
         </div>
@@ -81,7 +78,7 @@
       <div
         class="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row"
       >
-        <p class="text-sm text-center sm:text-left">
+        <!-- <p class="text-sm text-center sm:text-left">
           {{ `© ${new Date().getFullYear()} ${$static.metadata.siteName}` }} —
           <a
             :href="$static.metadata.siteAuthorUrl"
@@ -90,8 +87,10 @@
             target="_blank"
             >{{ `@${$static.metadata.siteAuthor}` }}</a
           >
-        </p>
-        <span
+        </p> -->
+        <p class="text-sm text-center sm:text-left">
+          {{ `© Copyright ${new Date().getFullYear()}. War Yankee and Gagglepod. All Rights Reserved.` }}</p>
+        <!-- <span
           class="
             inline-flex
             sm:ml-auto sm:mt-0
@@ -119,7 +118,7 @@
               />
             </svg>
           </a>
-        </span>
+        </span> -->
       </div>
     </div>
   </footer>
