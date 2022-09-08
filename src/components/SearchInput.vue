@@ -5,7 +5,7 @@
     <div class="relative w-80">
       <input
         type="text"
-        placeholder='Search (Press  "/" to focus)'
+        placeholder=''
         class="
           bg-background-form
           border border-gray-500
