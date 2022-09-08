@@ -1,31 +1,36 @@
 ---
-title: 'Overland.12: Running in Circles'
-cover_title: Overland
-path: /episode/overland-12-running-in-circles
-date: 2021-11-21
-summary: After waiting for hours for Meade to stop talking about attacking, and actually attack, Grant has had enough and will now take action to deal with the growing rebel threat.
-tags: ['episode', 'overland']
-categories: ['overland']
-thumbnail: ./img-overland-12-running-in-circles.png
+title: 'Intelligence.01: Terms of Service'
+cover_title: Intelligence
+path: /episode/intelligence-01-terms-of-service
+date: 2020-09-24
+summary: Learn how Americans, immigrants, and foreign nationals become soldiers in the Union Army of the Potomac in 1864.
+tags: ['episode', 'intelligence']
+categories: ['intelligence']
+thumbnail: ./img-intelligence-01-terms-of-service.png
 sidebar: Alternative
 is_archived: false
 ---
 
-<iframe title="Embed Player" src="https://play.libsyn.com/embed/episode/id/21238643/height/128/theme/modern/size/standard/thumbnail/yes/custom-color/2b3f55/time-start/00:00:00/playlist-height/200/direction/backward/download/yes" height="128" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>
+<iframe title="Embed Player" src="https://play.libsyn.com/embed/episode/id/16137983/height/128/theme/modern/size/standard/thumbnail/yes/custom-color/2b3f55/time-start/00:00:00/playlist-height/200/direction/backward/download/yes" height="128" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>
 
 ## In This Episode
 
-The Army of the Potomac has captured the Brock Road Intersection with Orange Plank Road, has discovered Confederate cavalry probing their left flank along the Catharpin Road, and now must deal with the growing threat of Rebels digging in along the Orange Turnpike. After waiting for hours for Meade to stop talking about attacking, and actually attack, Grant has had enough. But will he intervene in time to win his first battle against Lee?
+It's May 4th, 1864 — You are a soldier in the Army of the Potomac marching towards the Rapidan River and into The Wilderness -- a 70-mile tract of thickets and dense forest that only a year before had been the location of this same armies defeat at the Battle of Chancellorsville. Before you cross the floating bridge over the Rapidan River that will be later be torn up so that you cannot use it again to retreat... you may ask yourself... How did I get here?
 
 ## Noteable Quotes
 
-*"If [this] is what Meade meant by attacking 'at once', as he said he would at 7:30 AM (it's now after 10:00 AM) no wonder Lee was running circles around him."*<br />
-**-- Gordon Rhea, Battle of the Wilderness**
+*“We talked the matter over and could have settled the war in thirty minutes had it been left to us.”*<br />
+**— Unknown Confederate Soldier referencing a meeting he had with a Union soldier between the lines.**
 
 #
 
-*"The only time I ever feel impatient is when I give an order for an important movement of troops in the presence of the enemy and am waiting for them to reach their destination. Then the minutes seem like hours."*<br />
-**-- Grant's comment to Porter, from Hell Itself by Chris Mackowski**
+*“To his left he saw the other regiments, men from New York, Pennsylvania, Michigan. Men like these, he thought, just farmers and shopkeepers, and now we are soldiers, and now we are about to die.”*<br />
+**— Jeff Shaara, Gods and Generals**
+
+#
+
+*“Rich man’s war and poor man’s fight!”*<br />
+**— Rallying Cry of New York City Draft Rioters**
 
 ## Support the War Yankee Podcast
 Every episode is a work of passion that requires a lot of coffee. I research, read, visit, host, mix, edit, and produce every episode myself. I would greatly appreciate it if you could do two things for me:

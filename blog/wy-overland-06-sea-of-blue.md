@@ -3,7 +3,7 @@ title: 'Overland.06: Sea of Blue'
 cover_title: Overland
 path: /episode/overland-06-sea-of-blue
 date: 2020-10-12
-summary: Kyle Bondo details how the biggest army ever assembled in North American moves across the Rapidan River and into the fabled Wilderness.
+summary: The plan to move the biggest army ever assembled in North American is now underway as 120,000 soliders move across the Rapidan River and into the fabled Wilderness.
 tags: ['episode', 'overland']
 categories: ['overland']
 thumbnail: ./img-overland-06-sea-of-blue.png

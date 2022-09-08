@@ -1,31 +1,36 @@
 ---
-title: 'Overland.12: Running in Circles'
-cover_title: Overland
-path: /episode/overland-12-running-in-circles
-date: 2021-11-21
-summary: After waiting for hours for Meade to stop talking about attacking, and actually attack, Grant has had enough and will now take action to deal with the growing rebel threat.
-tags: ['episode', 'overland']
-categories: ['overland']
-thumbnail: ./img-overland-12-running-in-circles.png
+title: 'Update.04: Texas or Bust'
+cover_title: Updates
+path: /episode/update-04-texas-or-bust
+date: 2021-10-19
+summary: Kyle Bondo talks about his upcoming move to Texas and teases out the what is coming up next on War Yankee.
+tags: ['episode', 'updates']
+categories: ['updates']
+thumbnail: ./img-update-04-texas-or-bust.png
 sidebar: Alternative
 is_archived: false
 ---
 
-<iframe title="Embed Player" src="https://play.libsyn.com/embed/episode/id/21238643/height/128/theme/modern/size/standard/thumbnail/yes/custom-color/2b3f55/time-start/00:00:00/playlist-height/200/direction/backward/download/yes" height="128" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>
+<iframe title="Embed Player" src="https://play.libsyn.com/embed/episode/id/20875637/height/128/theme/modern/size/standard/thumbnail/yes/custom-color/2b3f55/time-start/00:00:00/playlist-height/200/direction/backward/download/yes" height="128" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>
 
 ## In This Episode
 
-The Army of the Potomac has captured the Brock Road Intersection with Orange Plank Road, has discovered Confederate cavalry probing their left flank along the Catharpin Road, and now must deal with the growing threat of Rebels digging in along the Orange Turnpike. After waiting for hours for Meade to stop talking about attacking, and actually attack, Grant has had enough. But will he intervene in time to win his first battle against Lee?
+War Yankee is moving to Texas!
 
 ## Noteable Quotes
 
-*"If [this] is what Meade meant by attacking 'at once', as he said he would at 7:30 AM (it's now after 10:00 AM) no wonder Lee was running circles around him."*<br />
-**-- Gordon Rhea, Battle of the Wilderness**
+*“Texas or bust.”*<br />
+**— Kyle M. Bondo**
 
 #
 
-*"The only time I ever feel impatient is when I give an order for an important movement of troops in the presence of the enemy and am waiting for them to reach their destination. Then the minutes seem like hours."*<br />
-**-- Grant's comment to Porter, from Hell Itself by Chris Mackowski**
+*“Mark me, the day that produces a dissolution of this [Union] will be written in the blood of humanity.”*<br />
+**— Sam Houston, U.S. Senator (Texas), told Congress as he defied Southerns by voting against the Kansas-Nebraska Act, leaving the Democratic Party in 1854.**
+
+#
+
+*“I wish no prouder epitaph to mark the board or slab that may lie on my tomb than this: 'He loved his country, he was a patriot; he was devoted to the Union.'”*<br />
+**— Governer Sam Houston (Texas) when the Texas state convention voted overwhelmingly to secede from the Union, against his wishes on Feb. 1, 1861.**
 
 ## Support the War Yankee Podcast
 Every episode is a work of passion that requires a lot of coffee. I research, read, visit, host, mix, edit, and produce every episode myself. I would greatly appreciate it if you could do two things for me:

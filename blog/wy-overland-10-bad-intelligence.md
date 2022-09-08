@@ -3,7 +3,7 @@ title: 'Overland.10: Bad Intelligence'
 cover_title: Overland
 path: /episode/overland-10-bad-intelligence
 date: 2021-10-05
-summary: Discover the fate of Harry Wilson's cavalry division and why it was absent during the opening hours of the Battle of the Wilderness.
+summary: Discover the fate of Harry Wilson's cavalry division and why it was absent during the opening hours of the Battle of the Wilderness (Part I).
 tags: ['episode', 'overland']
 categories: ['overland']
 thumbnail: ./img-overland-10-bad-intelligence.png

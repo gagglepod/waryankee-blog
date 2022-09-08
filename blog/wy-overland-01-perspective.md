@@ -1,41 +1,37 @@
 ---
-title: 'Overland.08: We Will Fight Here'
+title: 'Overland.01: Perspective'
 cover_title: Overland
-path: /episode/overland-08-we-will-fight-here
-date: 2020-11-07
-summary: Lieutenant General Ulysses S. Grant, Major General George Meade, and the Army of the Potomac have spent the night in the fabled Wilderness. What could go wrong?
+path: /episode/overland-01-perspective
+date: 2020-08-08
+summary: Introducing War Yankee - Overland, my American Civil War history podcast that follows General Ulysses S. Grant and the Army of the Potomac on its 47-day, 113-mile military campaign south from Culpeper to Petersburg, Virginia.
 tags: ['episode', 'overland']
 categories: ['overland']
-thumbnail: ./img-overland-08-we-will-fight-here.png
+thumbnail: ./img-overland-01-perspective.png
 sidebar: Alternative
 is_archived: false
 ---
 
-<iframe title="Embed Player" src="https://play.libsyn.com/embed/episode/id/16716893/height/128/theme/modern/size/standard/thumbnail/yes/custom-color/2b3f55/time-start/00:00:00/playlist-height/200/direction/backward/download/yes" height="128" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>
+<iframe title="Embed Player" src="https://play.libsyn.com/embed/episode/id/15537218/height/128/theme/modern/size/standard/thumbnail/yes/custom-color/2b3f55/time-start/00:00:00/playlist-height/200/direction/backward/download/yes" height="128" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>
 
 ## In This Episode
 
-It's dawn on May 5th, 1864 -- Lieutenant General Ulysses S. Grant, Major General George Meade, and the Army of the Potomac have spent the night in the fabled WILDERNESS. Now, as the morning sun rises on a new day, what started as an easy march out of the thickets quickly spins out of control after a series of unexpected enemy surprises.
+It's August 2020... Greetings! I am Kyle M. Bondo and this War Yankee - Overland, my American Civil War history podcast that follows General Ulysses S. Grant and the Army of the Potomac on its 47-day, 113-mile military campaign south from Culpeper to Petersburg, Virginia. As the first episode in this War Yankee series, I want to begin with setting some expectations. You may be asking yourself:
+
+- Who is the War Yankee?
+- Why the Overland Campaign?
+- Why are you starting in the middle of the Civil War?
+
+To answer these questions I begin with some background about myself and my family history that will fill you in on my perspective regarding the American Civil War and what War Yankee will focus on.
 
 ## Noteable Quotes
 
-*"My pickets report nothing new from the enemy this morning."*<br />
-**-- Brig.Gen. Wilson's Scouting Report Regarding Orange Plank Road from Parker's Store sent to Maj.Gen. Meade at 5:00 AM, May 5th, 1864**
+*"That Grant, he was the only War Yankee Lincoln had that was worth anything."*<br />
+**-- Grandpa**
 
 #
 
-*"An unconfirmed report placed enemy soldiers on the Orange Turnpike. Concluding that Griffin probably faced an inconsequential rebel diversionary force. [...] I have no intention of modifying my corps' movements."*<br />
-**-- Maj.Gen. Gouverneur K. Warren, Commander, US Army V Corps**
-
-#
-
-*"If they want to fight here, then we will fight here!"*<br />
-**-- Lt.Gen. Ulysses S. Grant**
-
-#
-
-*"What had begun as a hopeful morning's march was rapidly taking an ugly, familiar turn. Once again, the Union high command had underestimated Lee's audacity."*<br />
-**-- Gordon Rhea, Battle of the Wilderness**
+*"The world will little note nor long remember what we say here but it can never forget what they did here."*<br />
+**-- President Abraham Lincoln, From the Gettysburg Address**
 
 ## Support the War Yankee Podcast
 Every episode is a work of passion that requires a lot of coffee. I research, read, visit, host, mix, edit, and produce every episode myself. I would greatly appreciate it if you could do two things for me:
@@ -45,7 +41,6 @@ Every episode is a work of passion that requires a lot of coffee. I research, re
 2. If you enjoy this podcast, please consider supporting the show by [buying me a cup of coffee](https://www.buymeacoffee.com/waryankee) (or two)!
 
 3. Thank you for taking the time to listen. You are appreciated!
-
 
 ## War Yankee Supports ABT 
 [American Battlefield Trust](https://battlefields.org) knows that there is no substitute for experiencing history in the places where it actually took place and has worked to become the only one national organization working to save America\'s historic battlefields today and discover how you can help preserve American history forever. Join me in the fight to save our nation\'s historic battlefields by visiting the American Battlefield Trust website at  battlefields.org
