@@ -152,6 +152,11 @@ export default {
           name: 'Blog',
           to: '/blog/',
         },
+        {
+          key: 'resources',
+          name: 'Resources',
+          to: '/resources/',
+        },
       ],
     }
   },
