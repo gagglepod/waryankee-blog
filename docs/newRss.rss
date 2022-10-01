@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0'
+	xmlns:atom='http://www.w3.org/2005/Atom'
+	xmlns:cc='http://web.resource.org/cc/'
+	xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd'
+	xmlns:media='http://search.yahoo.com/mrss/'
+	xmlns:content='http://purl.org/rss/1.0/modules/content/'
+	xmlns:podcast='https://podcastindex.org/namespace/1.0'
+	xmlns:googleplay='http://www.google.com/schemas/play-podcasts/1.0'
+	xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+	<channel>
+	 	<atom:link href='https://waryankee.libsyn.com/rss' rel='self' type='application/rss+xml'/>
+	 	<title>War Yankee - Overland</title>
+	 	<pubDate>Sat, 01 Oct 2022 00:00:00 -0500</pubDate>
+	 	<lastBuildDate>Sat, 01 Oct 2022 00:00:00 -0500</lastBuildDate>
+	 	<generator>Oncetold Rainmaker v1.0</generator>
+	 	<link>https://waryankee.com</link>
+	 	<language>en</language>
+	 	<copyright><![CDATA[Copyright © 2022 War Yankee - Overland. All Rights Reserved.]]></copyright>
+	 	<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+	 	<managingEditor>thewaryankee@gmail.com (thewaryankee@gmail.com)</managingEditor>
+	 	<itunes:summary><![CDATA[It's May 1864, and the Union enters its fourth year of war against the Confederacy succession. Ulysses S. Grant -- Hero of Vicksburg -- has been promoted to General-in-Chief of the entire Union Army by President Lincoln in a last-ditch effort to win the war. Grant, placing his command in the field with the Army of the Potomac, will now execute his own aggressive strategy against the rebels on all fronts. But first, he must spend the next 47-days fighting his way across the enemy-held Commonwealth of Virginia. Join amateur historian and US Navy veteran Kyle M. Bondo, as he follows the history of Grant's Overland Campaign from Washington, DC, to Petersburg, Virginia, in War Yankee, an American Civil War Podcast is a history podcast presented by Gagglepod.]]></itunes:summary>
+	 	<image>
+	 	 	<url>https://firebasestorage.googleapis.com/v0/b/oncetold-dev-cloud.appspot.com/o/images%2Fusers%2FCxpeC9gyexV80aKlfffBVm8wdIe2%2Fwar-yankee-v7-grant-overland-1400x1400.jpg?alt=media&token=cee695bf-0b46-4b36-aa8e-1837a9e35398</url>
+	 	 	<title>War Yankee - Overland</title>
+	 	 	<link><![CDATA[https://waryankee.com]]></link>
+	 	</image>
+	 	<itunes:author>Kyle M. Bondo,Gagglepod</itunes:author>
+	 	<itunes:keywords>civil war, grant, 1864, overland, war yankee</itunes:keywords>
+	 	<itunes:category text='History,Education,Military'/>
+	 	<itunes:category text='History,Education,Military'/>
+	 	<itunes:category text='History,Education,Military'/>
+	 	<itunes:image href='https://firebasestorage.googleapis.com/v0/b/oncetold-dev-cloud.appspot.com/o/images%2Fusers%2FCxpeC9gyexV80aKlfffBVm8wdIe2%2Fwar-yankee-v7-grant-overland-1400x1400.jpg?alt=media&token=cee695bf-0b46-4b36-aa8e-1837a9e35398' />
+	 	<itunes:explicit>no</itunes:explicit>
+	 	<itunes:owner>
+	 	 	<itunes:name><![CDATA[Kyle M. Bondo]]></itunes:name>
+	 	 	<itunes:email>thewaryankee@gmail.com</itunes:email>
+	 	</itunes:owner>
+	 	<description><![CDATA[It's May 1864, and the Union enters its fourth year of war against the Confederacy succession. Ulysses S. Grant -- Hero of Vicksburg -- has been promoted to General-in-Chief of the entire Union Army by President Lincoln in a last-ditch effort to win the war. Grant, placing his command in the field with the Army of the Potomac, will now execute his own aggressive strategy against the rebels on all fronts. But first, he must spend the next 47-days fighting his way across the enemy-held Commonwealth of Virginia. Join amateur historian and US Navy veteran Kyle M. Bondo, as he follows the history of Grant's Overland Campaign from Washington, DC, to Petersburg, Virginia, in War Yankee, an American Civil War Podcast is a history podcast presented by Gagglepod.]]></description>
+	 	<itunes:subtitle><![CDATA[The American Civil War in 1864]]></itunes:subtitle>
+	 	<itunes:type>Episodic</itunes:type>
+	 	<podcast:locked owner='thewaryankee@gmail.com'>true</podcast:locked>
+	 	 	<!-- ITEM DETAILS -->
+	 	<item>
+	 	 	<title>Update.04: Texas or Bust</title>
+	 	 	<itunes:title>Update.04: Texas or Bust</itunes:title>
+	 	 	<itunes:subtitle><![CDATA[Kyle Bondo talks about his upcoming move to Texas and teases out the what is coming up next on War Yankee.]]></itunes:subtitle>
+	 	 	<description><![CDATA[In This EpisodeWar Yankee is moving to TexasNoteable QuotesTexas or bust Kyle M BondoMark me the day that produces a dissolution of this Union will be written in the blood of humanity Sam Houston US Senator Texas told Congress as he defied Southerns by voting against the KansasNebraska Act leaving the Democratic Party in I wish no prouder epitaph to mark the board or slab that may lie on my tomb than this He loved his country he was a patriot he was devoted to the Union Governer Sam Houston Texas when the Texas state convention voted overwhelmingly to secede from the Union against his wishes on Feb  ]]></description>
+	 	 	<link><![CDATA[https://waryankee.com/update/4]]></link>
+	 	 	<guid isPermaLink='false'><![CDATA[1c99b55d-033c-4d20-a481-59702aeea6ec]]></guid>
+	 	 	<pubDate>Sep 28, 2022 @ 16:25 pm</pubDate>
+	 	 	<enclosure length='251' type='audio/mpeg' url='https://firebasestorage.googleapis.com/v0/b/oncetold-dev-cloud.appspot.com/o/audio%2Fusers%2FCxpeC9gyexV80aKlfffBVm8wdIe2%2Fwy-december2020-update.mp3?alt=media&token=ac74bb1d-ea04-4e41-950c-2a0e8f39c68d' />
+	 	 	<itunes:subtitle><![CDATA[Kyle Bondo talks about his upcoming move to Texas and teases out the what is coming up next on War Yankee.]]></itunes:subtitle>
+	 	 	<content:encoded><![CDATA[In This EpisodeWar Yankee is moving to TexasNoteable QuotesTexas or bust Kyle M BondoMark me the day that produces a dissolution of this Union will be written in the blood of humanity Sam Houston US Senator Texas told Congress as he defied Southerns by voting against the KansasNebraska Act leaving the Democratic Party in I wish no prouder epitaph to mark the board or slab that may lie on my tomb than this He loved his country he was a patriot he was devoted to the Union Governer Sam Houston Texas when the Texas state convention voted overwhelmingly to secede from the Union against his wishes on Feb  ]]></content:encoded>
+	 	 	<itunes:author>Kyle M. Bondo,Gagglepod</itunes:author>
+	 	 	<itunes:image href='https://firebasestorage.googleapis.com/v0/b/oncetold-dev-cloud.appspot.com/o/images%2Fusers%2FCxpeC9gyexV80aKlfffBVm8wdIe2%2Fwar-yankee-v7-grant-overland-1400x1400.jpg?alt=media&token=cee695bf-0b46-4b36-aa8e-1837a9e35398' />
+	 	 	<itunes:explicit>no</itunes:explicit>
+	 	 	<itunes:keywords>Grant, Wilderness, 1864</itunes:keywords>
+	 	 	<itunes:duration>251</itunes:duration>
+	 	 	<itunes:episode>4</itunes:episode>
+	 	 	<itunes:episodeType>full</itunes:episodeType>
+	 	</item>
+	 	<item>
+	 	 	<title>Overland.12: Running in Circles</title>
+	 	 	<itunes:title>Overland.12: Running in Circles</itunes:title>
+	 	 	<itunes:subtitle><![CDATA[After waiting for hours for Meade to stop talking about attacking, and actually attack, Grant has had enough and will now take action to deal with the growing rebel threat.]]></itunes:subtitle>
+	 	 	<description><![CDATA[In This EpisodeThe Army of the Potomac has captured the Brock Road Intersection with Orange Plank Road has discovered Confederate cavalry probing their left flank along the Catharpin Road and now must deal with the growing threat of Rebels digging in along the Orange Turnpike After waiting for hours for Meade to stop talking about attacking and actually attack Grant has had enough But will he intervene in time to win his first battle against LeeNotable QuotesIf this is what Meade meant by attacking at once as he said he would at  AM its now after  AM no wonder Lee was running circles around him Gordon Rhea Battle of the WildernessThe only time I ever feel impatient is when I give an order for an important movement of troops in the presence of the enemy and am waiting for them to reach their destination Then the minutes seem like hours Grants comment to Porter from Hell Itself by Chris Mackowski]]></description>
+	 	 	<link><![CDATA[https://waryankee.com/overland/12]]></link>
+	 	 	<guid isPermaLink='false'><![CDATA[1c99b55d-033c-4d20-a481-59702aeea6ec]]></guid>
+	 	 	<pubDate>Sep 28, 2022 @ 15:56 pm</pubDate>
+	 	 	<enclosure length='4104' type='audio/mpeg' url='https://firebasestorage.googleapis.com/v0/b/oncetold-dev-cloud.appspot.com/o/audio%2Fusers%2FCxpeC9gyexV80aKlfffBVm8wdIe2%2Fwy12-running-in-circles.mp3?alt=media&token=3b3a184b-4914-4fed-aded-de648d4be3aa' />
+	 	 	<itunes:subtitle><![CDATA[After waiting for hours for Meade to stop talking about attacking, and actually attack, Grant has had enough and will now take action to deal with the growing rebel threat.]]></itunes:subtitle>
+	 	 	<content:encoded><![CDATA[In This EpisodeThe Army of the Potomac has captured the Brock Road Intersection with Orange Plank Road has discovered Confederate cavalry probing their left flank along the Catharpin Road and now must deal with the growing threat of Rebels digging in along the Orange Turnpike After waiting for hours for Meade to stop talking about attacking and actually attack Grant has had enough But will he intervene in time to win his first battle against LeeNotable QuotesIf this is what Meade meant by attacking at once as he said he would at  AM its now after  AM no wonder Lee was running circles around him Gordon Rhea Battle of the WildernessThe only time I ever feel impatient is when I give an order for an important movement of troops in the presence of the enemy and am waiting for them to reach their destination Then the minutes seem like hours Grants comment to Porter from Hell Itself by Chris Mackowski]]></content:encoded>
+	 	 	<itunes:author>Kyle M. Bondo,Gagglepod</itunes:author>
+	 	 	<itunes:image href='https://firebasestorage.googleapis.com/v0/b/oncetold-dev-cloud.appspot.com/o/images%2Fusers%2FCxpeC9gyexV80aKlfffBVm8wdIe2%2Fwar-yankee-v7-grant-overland-1400x1400.jpg?alt=media&token=cee695bf-0b46-4b36-aa8e-1837a9e35398' />
+	 	 	<itunes:explicit>no</itunes:explicit>
+	 	 	<itunes:keywords>Grant, Wilderness, 1864</itunes:keywords>
+	 	 	<itunes:duration>4104</itunes:duration>
+	 	 	<itunes:episode>12</itunes:episode>
+	 	 	<itunes:episodeType>full</itunes:episodeType>
+	 	</item>
+	</channel>
+</rss>

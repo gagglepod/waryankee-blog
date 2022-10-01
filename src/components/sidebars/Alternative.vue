@@ -1,6 +1,6 @@
 <template>
   <div class="w-full flex flex-col my-4">
-    <p class="text-xl font-semibold pb-5">Subscribe</p>
+    <p class="text-xl font-semibold pb-5">SUBSCRIBE</p>
       <nav class="list-none mb-5">
         <ul>
           <li>
@@ -20,7 +20,7 @@
           </li>
         </ul>
       </nav>
-      <p class="text-xl font-semibold pb-5">Categories</p>
+      <p class="text-xl font-semibold pb-5">CATEGORIES</p>
       <nav class="list-none mb-5">
         <ul>
           <li>

@@ -148,9 +148,24 @@ export default {
       isOpen: false,
       menuItems: [
         {
-          key: 'blog',
-          name: 'Blog',
-          to: '/blog/',
+          key: 'about',
+          name: 'About',
+          to: '/about/',
+        },
+        {
+          key: 'episodes',
+          name: 'Episodes',
+          to: '/episodes/',
+        },
+        {
+          key: 'subscribe',
+          name: 'Subscribe',
+          to: '/subscribe/',
+        },
+        {
+          key: 'support',
+          name: 'Support',
+          to: '/support/',
         },
         {
           key: 'resources',

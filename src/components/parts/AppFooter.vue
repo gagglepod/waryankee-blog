@@ -23,13 +23,16 @@
                 <g-link to="/about/">About Us</g-link>
               </li>
               <li>
-                <g-link to="/contact-us/">Contact Us</g-link>
+                <g-link to="/about/">Episodes</g-link>
               </li>
               <li>
-                <g-link to="/privacy-policy/">Privacy Policy</g-link>
+                <g-link to="/subscribe/">Subscribe</g-link>
               </li>
               <li>
-                <g-link to="/terms-and-conditions/">Terms & Conditions</g-link>
+                <g-link to="/support/">Support</g-link>
+              </li>
+              <li>
+                <g-link to="/resources/">Resources</g-link>
               </li>
             </ul>
           </nav>
