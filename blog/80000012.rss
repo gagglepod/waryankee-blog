@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="https://storage.googleapis.com/feeds.oncetold.net/styles.xsl" type="text/xsl"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:podcast="https://podcastindex.org/namespace/1.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <atom:link href="https://storage.googleapis.com/feeds.oncetold.net/12345.rss" rel="self" type="application/rss+xml" />
+        <title>War Yankee - Overland</title>
+        <lastBuildDate>Mon, 10 Oct 2022 07:12:21 -0400</lastBuildDate>
+        <link>https://waryankee.com</link>
+        <language>en</language>
+        <copyright>© 2022 Gagglepod</copyright>
+        <podcast:locked owner="thewaryankee@gmail.com">yes</podcast:locked>
+        <podcast:funding url="https://www.buymeacoffee.com/waryankee">Support this Podcast</podcast:funding>
+        <podcast:guid>8a8b8c8d-4a4a-4b4b-4c4c-12ab34cd56ef</podcast:guid>
+        <itunes:author>Kyle M. Bondo &amp; Gagglepod</itunes:author>
+        <itunes:type>episodic</itunes:type>
+        <itunes:explicit>false</itunes:explicit>
+        <description><![CDATA[Join amateur historian and US Navy veteran Kyle M. Bondo, as he follows the history of Grant's Overland Campaign from Washington, DC, to Petersburg, Virginia, in War Yankee, an American Civil War Podcast is a history podcast presented by Gagglepod.]]></description>
+        <itunes:keywords>Podcast, Civl War, History, Kyle M. Bondo, Gagglepod, USA, America, Grand</itunes:keywords>
+        <itunes:owner>
+            <itunes:name>Kyle M. Bondo &amp; Gagglepod</itunes:name>
+            <itunes:email>thewaryankee@gmail.com</itunes:email>
+        </itunes:owner>
+        <image>
+            <url>https://storage.buzzsprout.com/variants/d5clso5nqzou3wyq6hyhnhkeneba/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg</url>
+            <title>Podland News</title>
+            <link>https://podland.news</link>
+        </image>
+        <itunes:image href="https://storage.googleapis.com/oncetold-dev-cloud.appspot.com/images/users/CxpeC9gyexV80aKlfffBVm8wdIe2/war-yankee-v7-grant-overland-1400x1400.jpg" />
+        <itunes:category text="History">
+        </itunes:category>
+        <itunes:category text="Society &amp; Culture">
+            <itunes:category text="Documentary" />
+        </itunes:category>
+        <itunes:category text="Education">
+            <itunes:category text="Courses" />
+        </itunes:category>
+        <podcast:person role="host" href="https://www.linkedin.com/in/kylebondo/" img="https://storage.googleapis.com/oncetold-dev-cloud.appspot.com/images/users/CxpeC9gyexV80aKlfffBVm8wdIe2/kyle-smile-hi-res1-2017-1400x1400.jpg">Kyle M. Bondo</podcast:person>
+        <item>
+            <itunes:title>Overland.12: Running in Circles</itunes:title>
+            <title>Overland.12: Running in Circles</title>
+            <description><![CDATA[In This EpisodeThe Army of the Potomac has captured the Brock Road Intersection with Orange Plank Road, has discovered Confederate cavalry probing their left flank along the Catharpin Road, and now must deal with the growing threat of Rebels digging in along the Orange Turnpike. After waiting for hours for Meade to stop talking about attacking, and actually attack, Grant has had enough. But will he intervene in time to win his first battle against Lee?Notable Quotes"If [this] is what Meade meant by attacking 'at once', as he said he would at 7:30 AM (it's now after 10:00 AM) no wonder Lee was running circles around him."-- Gordon Rhea, Battle of the Wilderness"The only time I ever feel impatient is when I give an order for an important movement of troops in the presence of the enemy and am waiting for them to reach their destination. Then the minutes seem like hours."-- Grant's comment to Porter, from Hell Itself by Chris Mackowski]]></description>
+            <content:encoded><![CDATA[In This EpisodeThe Army of the Potomac has captured the Brock Road Intersection with Orange Plank Road, has discovered Confederate cavalry probing their left flank along the Catharpin Road, and now must deal with the growing threat of Rebels digging in along the Orange Turnpike. After waiting for hours for Meade to stop talking about attacking, and actually attack, Grant has had enough. But will he intervene in time to win his first battle against Lee?Notable Quotes"If [this] is what Meade meant by attacking 'at once', as he said he would at 7:30 AM (it's now after 10:00 AM) no wonder Lee was running circles around him."-- Gordon Rhea, Battle of the Wilderness"The only time I ever feel impatient is when I give an order for an important movement of troops in the presence of the enemy and am waiting for them to reach their destination. Then the minutes seem like hours."-- Grant's comment to Porter, from Hell Itself by Chris Mackowski]]></content:encoded>
+            <itunes:author>Kyle M. Bondo &amp; Gagglepod</itunes:author>
+            <enclosure url="https://storage.googleapis.com/oncetold-dev-cloud.appspot.com/audio/users/CxpeC9gyexV80aKlfffBVm8wdIe2/wy12-running-in-circles.mp3" length="65640857" type="audio/mpeg" />
+            <guid isPermaLink="false">Oncetold-80000012</guid>
+            <pubDate>Fri, 07 Oct 2022 03:00:00 +0100</pubDate>
+            <link><![CDATA[https://waryankee.com/episode/overland-12-running-in-circles/]]></link>
+            <itunes:duration>4104</itunes:duration>
+            <itunes:keywords>Meade, Grant, Brock Road, Wilderness, Civil War, 1864</itunes:keywords>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>12</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
+    </channel>
+</rss>

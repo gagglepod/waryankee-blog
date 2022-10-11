@@ -19,15 +19,16 @@ The Army of the Potomac has captured the Brock Road Intersection with Orange Pla
 
 ## Noteable Quotes
 
-*"If [this] is what Meade meant by attacking 'at once', as he said he would at 7:30 AM (it's now after 10:00 AM) no wonder Lee was running circles around him."*<br />
+_"If [this] is what Meade meant by attacking 'at once', as he said he would at 7:30 AM (it's now after 10:00 AM) no wonder Lee was running circles around him."_<br />
 **-- Gordon Rhea, Battle of the Wilderness**
 
 #
 
-*"The only time I ever feel impatient is when I give an order for an important movement of troops in the presence of the enemy and am waiting for them to reach their destination. Then the minutes seem like hours."*<br />
+_"The only time I ever feel impatient is when I give an order for an important movement of troops in the presence of the enemy and am waiting for them to reach their destination. Then the minutes seem like hours."_<br />
 **-- Grant's comment to Porter, from Hell Itself by Chris Mackowski**
 
 ## Support the War Yankee Podcast
+
 Every episode is a work of passion that requires a lot of coffee. I research, read, visit, host, mix, edit, and produce every episode myself. I would greatly appreciate it if you could do two things for me:
 
 1. Send me a quick note of encouragement at [thewaryankee@gmail.com](mailto:thewaryankee@gmail.com). This keeps me going when times get tough!
@@ -36,21 +37,24 @@ Every episode is a work of passion that requires a lot of coffee. I research, re
 
 3. Thank you for taking the time to listen. You are appreciated!
 
+## War Yankee Supports ABT
 
-## War Yankee Supports ABT 
-[American Battlefield Trust](https://battlefields.org) knows that there is no substitute for experiencing history in the places where it actually took place and has worked to become the only one national organization working to save America\'s historic battlefields today and discover how you can help preserve American history forever. Join me in the fight to save our nation\'s historic battlefields by visiting the American Battlefield Trust website at  battlefields.org
+[American Battlefield Trust](https://battlefields.org) knows that there is no substitute for experiencing history in the places where it actually took place and has worked to become the only one national organization working to save America\'s historic battlefields today and discover how you can help preserve American history forever. Join me in the fight to save our nation\'s historic battlefields by visiting the American Battlefield Trust website at battlefields.org
 
 ## Send War Yankee a Telegraph
+
 - [ ] [Email Us](mailto:thewaryankee@gmail.com)
 - [ ] [Find all our Show Notes](http://waryankee.com)
 - [ ] [Find all our Episodes:](http://waryankee.libsyn.com)
 
 ## Subscribe to War Yankee
+
 - [ ] [Available on Podcast Index](https://podcastindex.org/podcast/452056)
-- [ ] [Available on Apple Podcasts]("https://podcasts.apple.com/us/podcast/war-yankee/id1522169260\")
-- [ ] [Available on Google Podcasts]("https://podcasts.google.com/u/1/feed/aHR0cHM6Ly93YXJ5YW5rZWUubGlic3luLmNvbS9yc3M\")
-- [ ] [Available on Spotify]("https://open.spotify.com/show/0ZUjVf8xGNunKioJR2nGes\")
+- [ ] [Available on Apple Podcasts]("https://podcasts.apple.com/us/podcast/war-yankee/id1522169260")
+- [ ] [Available on Google Podcasts]("https://podcasts.google.com/u/1/feed/aHR0cHM6Ly93YXJ5YW5rZWUubGlic3luLmNvbS9yc3M")
+- [ ] [Available on Spotify]("https://open.spotify.com/show/0ZUjVf8xGNunKioJR2nGes")
 - [ ] [Available on RSS]("https://waryankee.libsyn.com/rss")
 
-
 War Yankee is a [Gagglepod Production](http://gagglepod.com)
+
+[War Yankee Test RSS](./80000012.rss)
